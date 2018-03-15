@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - leftArm
+  - rightArm
+  - leftLeg
+  - rightLeg
+  - torso
+  - head
+  - Leg
+  - Arm
+  - P2
+  - P1
+  - Junk
+  - Happy
+  - Sad
+  - Angry
+  - ScenePeices
+  - Canvas
+  - Engagement
+  - rightdoor
+  - leftdoor
+  - pause
+  - leftface
+  - rightface
+  - bothfaces
+  - leftthumb
+  - p1state
+  - p2state
+  - leftEngagement
+  - rightEngagement
+  - vectorright
+  - a
+  - b
+  - c
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: dotline
+    uniqueID: 2187078873
+    locked: 0
+  - name: PlayerHolder
+    uniqueID: 2756177023
+    locked: 0
+  - name: Heads
+    uniqueID: 3443891709
+    locked: 0
+  - name: Bodypart
+    uniqueID: 1301498793
+    locked: 0
+  - name: Video
+    uniqueID: 2314290507
+    locked: 0

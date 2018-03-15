@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Kinect-vs-Autism-project-CSI-2.CSharp.Plugins", "UnityVS.Kinect-vs-Autism-project-CSI-2.CSharp.Plugins.csproj", "{2BC42CA5-C812-74D4-96F0-7E01F6266073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Kinect-vs-Autism-project-CSI-2.CSharp", "UnityVS.Kinect-vs-Autism-project-CSI-2.CSharp.csproj", "{698E92C7-E6AC-9A6E-F84E-041649588EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Kinect-vs-Autism-project-CSI-2.CSharp.Editor.Plugins", "UnityVS.Kinect-vs-Autism-project-CSI-2.CSharp.Editor.Plugins.csproj", "{DF76CFDF-1B16-15B7-CC98-090E99F2F61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC42CA5-C812-74D4-96F0-7E01F6266073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC42CA5-C812-74D4-96F0-7E01F6266073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC42CA5-C812-74D4-96F0-7E01F6266073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC42CA5-C812-74D4-96F0-7E01F6266073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698E92C7-E6AC-9A6E-F84E-041649588EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698E92C7-E6AC-9A6E-F84E-041649588EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698E92C7-E6AC-9A6E-F84E-041649588EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698E92C7-E6AC-9A6E-F84E-041649588EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF76CFDF-1B16-15B7-CC98-090E99F2F61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF76CFDF-1B16-15B7-CC98-090E99F2F61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF76CFDF-1B16-15B7-CC98-090E99F2F61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF76CFDF-1B16-15B7-CC98-090E99F2F61D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

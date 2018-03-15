@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameManager.cs">
+    <Files>
+      <File FileName="Assets\DisplayResults.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectScripts\KinectManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectScripts\InteractionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\Scripts\GrabDropScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\Scripts\PecCard.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\Scripts\PecMatch1.cs" Line="1" Column="1" />
+      <File FileName="Assets\EngagementMeter.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectScripts\KinectInterop.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\Scripts\Zzero.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\Scripts\BodyPart1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Positionmanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectScripts\FacetrackingManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\displayScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\ScoreKeep.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameManager.cs" Line="50" Column="35" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\Scripts\KinectVertices.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\Scripts\HandPosDetection.cs" Line="1" Column="1" />
+      <File FileName="Assets\ThumbsUpTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\MainFaceTracking.cs" Line="1" Column="1" />
+      <File FileName="Assets\MiniGameFaceTracking.cs" Line="1" Column="1" />
+      <File FileName="Assets\FaceVisuals.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\Scripts\ButtonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\InteractionDemo\Scripts\GameControl.cs" Line="10" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

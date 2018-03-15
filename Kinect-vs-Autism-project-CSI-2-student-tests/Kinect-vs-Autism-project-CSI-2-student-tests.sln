@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{57CA147F-2042-981F-5A53-93E3F9630C5C}") = "Kinect-vs-Autism-project-CSI-2-student-tests", "Assembly-CSharp-firstpass.csproj", "{8591B008-678F-C0E7-8800-4B91DCEF004C}"
+EndProject
+Project("{57CA147F-2042-981F-5A53-93E3F9630C5C}") = "Kinect-vs-Autism-project-CSI-2-student-tests", "Assembly-CSharp.csproj", "{F650D850-CE35-E096-89F0-4D0992FCA7CD}"
+EndProject
+Project("{57CA147F-2042-981F-5A53-93E3F9630C5C}") = "Kinect-vs-Autism-project-CSI-2-student-tests", "Assembly-CSharp-Editor-firstpass.csproj", "{742274A5-6E94-CC1F-CB75-0BB523984724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8591B008-678F-C0E7-8800-4B91DCEF004C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8591B008-678F-C0E7-8800-4B91DCEF004C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8591B008-678F-C0E7-8800-4B91DCEF004C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8591B008-678F-C0E7-8800-4B91DCEF004C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F650D850-CE35-E096-89F0-4D0992FCA7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F650D850-CE35-E096-89F0-4D0992FCA7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F650D850-CE35-E096-89F0-4D0992FCA7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F650D850-CE35-E096-89F0-4D0992FCA7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742274A5-6E94-CC1F-CB75-0BB523984724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742274A5-6E94-CC1F-CB75-0BB523984724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742274A5-6E94-CC1F-CB75-0BB523984724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742274A5-6E94-CC1F-CB75-0BB523984724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

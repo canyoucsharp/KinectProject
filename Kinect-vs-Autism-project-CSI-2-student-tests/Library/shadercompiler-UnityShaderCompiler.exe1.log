@@ -1,0 +1,43 @@
+Base path: C:/Program Files/Unity5.5/Editor/Data
+Cmd: getPlatforms
+Cmd: disassembleShader
+  api=15 insize=1874 outsize=3315 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1023 outsize=1988 kw=DIRECTIONAL VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: disassembleShader
+  api=10 insize=1988 outsize=3184 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1023 outsize=2726 kw=DIRECTIONAL SHADOWS_SCREEN VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: disassembleShader
+  api=15 insize=2726 outsize=4499 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1023 outsize=2550 kw=DIRECTIONAL _EMISSION VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: disassembleShader
+  api=15 insize=2550 outsize=4218 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1023 outsize=2550 kw=DIRECTIONAL VERTEXLIGHT_ON _ALPHABLEND_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: disassembleShader
+  api=15 insize=2550 outsize=4218 ok=1
+Cmd: disassembleShader
+  api=17 insize=6014 outsize=8549 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1023 outsize=3820 kw=DIRECTIONAL _EMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: disassembleShader
+  api=12 insize=3820 outsize=7055 ok=1
+Cmd: disassembleShader
+  api=17 insize=6026 outsize=8552 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1023 outsize=6178 kw=DIRECTIONAL SHADOWS_SCREEN _ALPHABLEND_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: disassembleShader
+  api=17 insize=6178 outsize=8868 ok=1
+Cmd: disassembleShader
+  api=15 insize=1378 outsize=2579 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=949 outsize=1184 kw=SPOT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: disassembleShader
+  api=10 insize=1184 outsize=1936 ok=1
+Cmd: disassembleShader
+  api=15 insize=1718 outsize=3056 ok=1
+Unhandled exception: Protocol error - failed to read correct magic number
+
+Quitting shader compiler process

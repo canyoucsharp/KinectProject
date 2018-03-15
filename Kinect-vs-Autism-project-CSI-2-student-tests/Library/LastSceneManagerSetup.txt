@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/KinectDemos/InteractionDemo/Scenes/DragonScenes/Lvl1Happy.unity
+  isLoaded: 1
+  isActive: 1

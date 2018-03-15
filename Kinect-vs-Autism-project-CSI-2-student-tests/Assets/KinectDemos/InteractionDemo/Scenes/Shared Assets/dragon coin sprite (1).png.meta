@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: af024a1ca5a07274c8a1b42ad13f2e49
+timeCreated: 1517166935
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragon coin sprite (1)_0
+    21300002: dragon coin sprite (1)_1
+    21300004: dragon coin sprite (1)_2
+    21300006: dragon coin sprite (1)_3
+    21300008: dragon coin sprite (1)_4
+    21300010: dragon coin sprite (1)_5
+    21300012: dragon coin sprite (1)_6
+    21300014: dragon coin sprite (1)_7
+    21300016: dragon coin sprite (1)_8
+    21300018: dragon coin sprite (1)_9
+    21300020: dragon coin sprite (1)_10
+    21300022: dragon coin sprite (1)_11
+    21300024: dragon coin sprite (1)_12
+    21300026: dragon coin sprite (1)_13
+    21300028: dragon coin sprite (1)_14
+    21300030: dragon coin sprite (1)_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 560
+        width: 380
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 560
+        width: 305
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 560
+        width: 216
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 560
+        width: 125
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 558
+        width: 34
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 560
+        width: 125
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 560
+        width: 221
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_7
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 560
+        width: 303
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 380
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_9
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 60
+        width: 305
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 54
+        width: 218
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 55
+        width: 128
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 54
+        width: 36
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_13
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 56
+        width: 127
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_14
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 54
+        width: 219
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon coin sprite (1)_15
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 54
+        width: 303
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
